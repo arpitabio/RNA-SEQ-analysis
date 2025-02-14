@@ -54,5 +54,5 @@ This repository contains an analysis of RNA-seq data using the DESeq2 package in
   RStudio
 
 ## **Acknowledgment**
-This analysis was conducted as part of an **assignment**, and the dataset used is publicly available.
+This analysis was conducted as part of an **assignment**, and the dataset used is publicly available at **GEO** with the dataset id of **GSE239514**.
 
