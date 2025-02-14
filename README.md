@@ -1,4 +1,4 @@
-# **Differential Gene Expression Analysis using DESeq2**
+# **Differential Gene Expression Analysis of tumor-draining lymph node samples in NSCLC patients using DESeq2**
 ## **Overview**
 This repository contains an analysis of RNA-seq data using the DESeq2 package in R. The primary objective was to identify differentially expressed genes (DEGs) and perform functional enrichment analysis as part of an assignment. The workflow includes preprocessing, differential expression analysis, visualization, and pathway enrichment analysis.
 ## **Data Used**
